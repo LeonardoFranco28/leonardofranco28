@@ -83,8 +83,8 @@ I enjoy working across the stack — from intuitive frontends to robust backends
 ## 🌍 Let's Connect!
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" />https://github.com/LeonardoFranco28</a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" />https://www.linkedin.com/in/l-franco28/</a>
 </p>
 
 ---
