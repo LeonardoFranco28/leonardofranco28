@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Leonardo 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Cybersecurity Student | Cloud & DevOps Enthusiast</strong>
+  <strong>Software Engineer | Cybersecurity Student | Cloud & DevOps | Ai Enthusiast</strong>
 </p>
 
 <p align="center">
