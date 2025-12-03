@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Leonardo 👋</h1>
 
-<!--
-**LeonardoFranco28/leonardofranco28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Software Engineer | Cybersecurity Student | Cloud & DevOps Enthusiast</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🔧 Building modern, scalable, cloud-native systems  
+  🚀 Passionate about distributed systems, event-driven architecture & backend engineering  
+  🎓 Cybersecurity student at UTP  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I’m a Software Engineer with **3+ years of professional experience**, building everything from **monolithic applications** to **large distributed systems** powered by **microservices** and **event-driven architectures**.
+
+I enjoy working across the stack — from intuitive frontends to robust backends and scalable cloud infrastructure.
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go,java,spring,php,nodejs,nestjs" />
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb,redis" />
+</p>
+
+- SQL Server  
+- BigQuery  
+- Data Modeling & Indexing  
+- Query Optimization  
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,grafana,prometheus" />
+</p>
+
+- Podman  
+- Helm  
+- DevOps Practices (CI/CD, IaC)  
+- Snyk  
+- NATS  
+- Observability (logs, metrics, tracing)  
+
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,digitalocean" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Cybersecurity Practices  
+- Offensive/Defensive Security  
+- Zero Trust & Secure Architecture  
+- High-Performance Distributed Systems  
+
+---
+
+## 🧩 What I Like Working On
+
+- High-throughput backend services  
+- Event-driven and streaming systems  
+- Cloud-native application design  
+- Developer experience & automation  
+- Security-oriented engineering  
+
+---
+
+## 🌍 Let's Connect!
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration.*  
