@@ -24,27 +24,33 @@ I enjoy working across the stack — from intuitive frontends to robust backends
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,js,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go,java,spring,php,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go,java,spring,php,nodejs,nestjs,supabase" />
 </p>
 
 ### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracledb,mongodb,redis" />
 </p>
 
 - SQL Server  
 - BigQuery  
 - Data Modeling & Indexing  
 - Query Optimization  
+- Airflow 
+- Databricks
+- Datafusion
+- Apache Spark
+- Apache SuperSet
+
 
 ### 🛠️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,grafana,prometheus,bun,bash" />
 </p>
 
 - Podman  
@@ -53,6 +59,7 @@ I enjoy working across the stack — from intuitive frontends to robust backends
 - Snyk  
 - NATS  
 - Observability (logs, metrics, tracing)  
+
 
 ### ☁️ Cloud Platforms
 <p>
