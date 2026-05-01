@@ -92,6 +92,7 @@ I enjoy working across the stack — from intuitive frontends to robust backends
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=github" />https://github.com/LeonardoFranco28</a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" />https://www.linkedin.com/in/l-franco28/</a>
+  <a href="https://sinlimites.dev"> Company sinlimites.dev </a>  
 </p>
 
 ---
